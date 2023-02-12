@@ -1,0 +1,80 @@
+# ninja log v5
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_value.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	b30058c011430456
+7	5121	0	flutter/_phony_	b30058c011430456
+6007	6209	1669646314676041104	intermediates_do_not_run/flutter_animation	38ae54e9f8531179
+5122	6007	1669646314472054097	CMakeFiles/flutter_animation.dir/my_application.cc.o	8752b2dcb5f9078f
+7610	8719	1669393194178748644	CMakeFiles/flutter_animation.dir/main.cc.o	c4eaa28a49c492ea
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/libflutter_linux_gtk.so	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_view.h	b30058c011430456
+5122	5916	1669646314380059957	CMakeFiles/flutter_animation.dir/flutter/generated_plugin_registrant.cc.o	5584339ac0750464
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_engine.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	b30058c011430456
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	b30058c011430456
+6210	6440	0	CMakeFiles/install.util	ba633f72fdd2a688
+7	5121	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/libflutter_linux_gtk.so	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_engine.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_value.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_view.h	b30058c011430456
+5	5579	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	b30058c011430456
+5	5579	0	flutter/_phony_	b30058c011430456
+5580	6363	1669646401225295226	CMakeFiles/flutter_animation.dir/flutter/generated_plugin_registrant.cc.o	5584339ac0750464
+5580	6495	1669646401353293774	CMakeFiles/flutter_animation.dir/my_application.cc.o	8752b2dcb5f9078f
+6495	6709	1669646401577291232	intermediates_do_not_run/flutter_animation	38ae54e9f8531179
+6709	6952	0	CMakeFiles/install.util	ba633f72fdd2a688
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/libflutter_linux_gtk.so	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_engine.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_value.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/fl_view.h	b30058c011430456
+37	24641	0	/home/hamza/Flutter Projects/flutter_animation/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	b30058c011430456
+37	24641	0	flutter/_phony_	b30058c011430456
+24643	28508	1670619045488594178	CMakeFiles/flutter_animation.dir/flutter/generated_plugin_registrant.cc.o	5584339ac0750464
+24642	28570	1670619045548596784	CMakeFiles/flutter_animation.dir/my_application.cc.o	8752b2dcb5f9078f
+28570	29047	1670619046032617813	intermediates_do_not_run/flutter_animation	38ae54e9f8531179
+29047	29735	0	CMakeFiles/install.util	ba633f72fdd2a688
